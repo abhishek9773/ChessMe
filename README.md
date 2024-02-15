@@ -1,2 +1,0 @@
-# ChessMe
-Chees game  
